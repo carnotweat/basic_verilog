@@ -1,0 +1,42 @@
+(Links of product/deal details cited below. feel free to tweak Inventory/specs/ deals to keep it economic)
+
+-PID process controller from   6,800.00  [1]
+
+
+- Servo Motor VS11 : 800.00 +    60.00 Delivery charge Details (incl. all taxes) [2]
+
+-Or stepper motor  140 - 800 [7]
+
+-  Machine vision sensor (2nd hand) ~ 10,036 INR [3]
+
+- Micro-controller 48 - 225 INR [4]
+or Motor driver 1070 INR [4.1]
+
+- PLC  5100 INR [5]
+
+- Omron Switch  448 INR [6]
+
+- Misc. cables, interfaces, relays  (cheap)
+- We can use old gears, rollers, plates from existing machines as needed (free)   
+===============================
+23432 -25114 INR + 5k-7k for misc ~ 30 K
+================================
+How to & Cost vs Scale:
+Check previous mail for control logic in principle.
+@Gaurav , you told me that some fan was 1/10th economic and also, that it was discontinued in practice due to resulting issues and the gap/need of the  folding function (automation) is still there. 
+I read it as we need to make something new (I propose one of the possible ways, feel free to add any other way you may have in mind), make it work and make it economic.
+====================================
+How to :
+-Develop a (prototype)central motion control kernel, that reads input motion (and other necessary data) and outputs controlled data. (Distributed I/O)
+- set-up a server for electric relay of these OCD instructions
+- Network the machines which are to be controlled and connect them to server. (cf. Internet of Things)
+Cost vs Scale
+This way we control n machines at the cost of 1 prototype kernel/server and cut hardware costs.
+The larger the scale the more economic it gets ( - the maintenance cost)
+Yes the new production cost (+labour cost) will be higher till your investment pays off and kernel/server gets developed and deployed.Then it will reduces costs and in due time you will see profit if maintenance cost is lower than  labour & misc costs, which get eliminated by new arrangement.
+We can sell our kernel/network/server setup for control to strategically selected other interested factories, workshops, based on terms we agree upon, before development. That will be a new line of revenue for Carnot and Whale.
+Rational
+Above is my rational , I don't have much say in yours. All I can say is that we intend to collaborate on development of a series of products and not just one.
+What I can promise is, that the subsequent deals will be adaptive of outcome and progress of this one. 
+As we are accountable and rational in our conduct.
+On that note, we can debate on every point mentioned above and I will be glad to clarify to my 

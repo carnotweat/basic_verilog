@@ -1,0 +1,29 @@
+24V Power Supply: http://amzn.to/1BlwmF4
+8MM Linear Rail: http://ebay.to/14rPWXB
+Aluminum Brackets: http://bit.ly/1U1VhMz
+Arduino Uno: http://amzn.to/1E0gxVU
+Blocks: http://amzn.to/11EBDwt
+(cheap!): http://amzn.to/1qppo2C or http://amzn.to/1siEp1C
+CNC: http://amzn.to/1C4KZxt
+Dial Indicator: http://amzn.to/1DuvGQC
+G-Code Sender: http://bit.ly/1we597w
+GRBL Alternative for Arduino CNC: http://amzn.to/1C4KZxt
+GRBL Hex: http://bit.ly/1vBO4R7
+GRBL Links: XLoader:http://bit.ly/1zMaraQ
+GRBL Shield: http://bit.ly/1vJbWY9
+24VIndicator with Mag Base: http://amzn.to/1ABvkba 2-4-6
+A  Grbl alternative!: http://amzn.to/1C4KZxt
+Linear Bearing Slider: http://ebay.to/1BugvYh
+8MM Linear Rail: http://ebay.to/14rPWXB
+Multi-Meter (cheap!): http://amzn.to/1qppo2C or http://amzn.to/1siEp1C
+ Multi-Meter: http://amzn.to/1qppo2C or http://amzn.to/1siEp1C
+ Multi-Meter (only $13.99!): http://amzn.to/1qppo2C or http://amzn.to/1siEp1C
+ 
+Power Supply: http://amzn.to/1BlwmF4
+Power Supply: http://amzn.to/1ufK1cX
+SMW Aluminum Brackets: http://bit.ly/1U1VhMz
+Stepper: http://ebay.to/1xNEJ02
+Stepper Motors: http://amzn.to/1MOGUnS
+Timing Belt: http://ebay.to/1xNxthz
+Timing Pulley: http://ebay.to/1I25PEN
+Using GRBL Shield: http://bit.ly/1Gh08xn
